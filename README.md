@@ -1,7 +1,7 @@
 WHO AM I ? 😀
   
   👋 Hi, I’m OUATTARA Alphonse, currently logistics and Transport
-  Engineering programme student in INP-HB after for here in general 
+  Engineering programme student in INP-HB after four years in general 
   mangement at University. Upon a time, i feed the dream to speak 
   with a machin ( computer) and receive amazings answers, ask him to do 
   what I want and he execut it. Today the ALX Software Engineering program 
