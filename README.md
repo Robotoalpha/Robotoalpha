@@ -3,8 +3,8 @@ WHO AM I ? 😀
   👋 Hi, I’m OUATTARA Alphonse, currently logistics and Transport
   Engineering programme student in INP-HB after four years in general 
   mangement at University. Upon a time, i feed the dream to speak 
-  with a machin ( computer) and receive amazings answers, ask him to do 
-  what I want and he execut it. Today the ALX Software Engineering program 
+  with a machine ( computer) and receive amazings answers, ask him to do 
+  what I want and he executes it. Today the ALX Software Engineering program 
   of Holberton School give me the opportinity to make this dream become
   Reality. Thank you very much to authors of this program and to all the peers. 
   Let's stay focus and develop a growth mindset and use all the intelectual tools 
